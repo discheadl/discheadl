@@ -11,7 +11,7 @@ I am a computer systems engineering student, currently doing my internship at Re
 
 - 🌱 I'm currently learning ...
   - AWS
-- 🌎 Based in EUA, open to remote roles — fluent in English and Spanish.
+- 🌎 Based in US, open to remote roles — fluent in English and Spanish.
 - 🐧 My dotfiles are a living project — always tweaking my Hyprland/Quickshell setup, never quite "done."
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎨 I love ricing my Linux setup, 🎧 producing music, and 🥊 boxing.
@@ -25,7 +25,7 @@ I am a computer systems engineering student, currently doing my internship at Re
   </kbd>
   
    <kbd>
-    <kbd>Forntend</kbd>
+    <kbd>Frontend</kbd>
     <br><br>
     <img src="https://skillicons.dev/icons?i=angular,flutter" />
   </kbd>
@@ -33,7 +33,7 @@ I am a computer systems engineering student, currently doing my internship at Re
   <kbd>
     <kbd>Backend</kbd>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
   </kbd>
 
   <kbd>
