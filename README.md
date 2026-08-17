@@ -17,7 +17,7 @@ I am a computer systems engineering student, currently doing my internship at Re
 - Outside tech, 🎨 I love ricing my Linux setup, 🎧 producing music, and 🥊 boxing.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
