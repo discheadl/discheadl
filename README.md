@@ -21,7 +21,7 @@ I am a computer systems engineering student, currently doing my internship at Re
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
   </kbd>
   
    <kbd>
@@ -45,6 +45,6 @@ I am a computer systems engineering student, currently doing my internship at Re
   <kbd>
     <kbd>Tools</kbd>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,postman" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,postman,wordpress,windows" />
   </kbd>
 </p>
